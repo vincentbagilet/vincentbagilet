@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vincentbagilet
-- 👀 I’m interested in environmental data analysis and data viz
+- 🌳 I’m interested in analysis of environment related data
 - 📫 How to reach me: vincent.bagilet@columbia.edu
 
 <!---
