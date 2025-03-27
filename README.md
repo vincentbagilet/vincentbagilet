@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincentbagilet
-- 🌳 I’m interested in analysis of environment related data
-- 📫 How to reach me: vincent.bagilet@columbia.edu
+- 🌳 I’m interested in analysis of social science data linked to environmental and cultural questions.
+- 📫 How to reach me: vincent.bagilet@ens-lyon.fr
 
 <!---
 vincentbagilet/vincentbagilet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
